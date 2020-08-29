@@ -1,5 +1,4 @@
 # Intel-Image-Classification-Challenge
-
 VGG19 based implementation with Batch Normalization
 
 Dataset from 
